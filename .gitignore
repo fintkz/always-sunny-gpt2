@@ -1,6 +1,6 @@
-
-/transcripts
-merged_transcripts.txt
 *.pth
 *.txt
 **/__pycache__
+.venv
+!sunny/data/*.txt
+
